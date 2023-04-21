@@ -1,6 +1,6 @@
-use AdventureWorks2012;
-
 -- Homework 3
+
+use AdventureWorks2012;
 
 /* 1. You have to create a report based on the tables Production.Product and Production.ProductCategory.
 The report should contain the product name and the category name of each product. */

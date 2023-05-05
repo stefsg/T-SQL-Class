@@ -78,7 +78,7 @@ LastName,
 Translate(LastName, 'a', '*') 'Translation'
 FROM [Person].[Person]
 
--- Resul:
+-- Result:
 -- 1 Abbas	*bb*s
 -- 2 Abel	*bel
 
@@ -119,7 +119,7 @@ FROM [Person].[Person]
 -- 2 Catherine	9
 -- 3 Kim	3
 
--- B. Date and time functions 
+-- B. Date and Time Functions 
 
 -- 1. DATEADD
 
